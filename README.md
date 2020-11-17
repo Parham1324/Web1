@@ -1,1 +1,2 @@
-{"آدرس":"https://app.puzzley.ir/mobile/8Z16-7KD0-66D6-DT3I#/nav/home-screen807"}
+
+{"آدرس1":"https://app.puzzley.ir/mobile/8Z16-7KD0-66D6-DT3I#/nav/home-screen807","آدرس2":"https://raw.githubusercontent.com/Parham1324/Yasin/main/README.md","آدرس3":"https://app.puzzley.ir/mobile/8Z16-7KD0-66D6-DT3I#/nav/home-screen807","آدرس4":"{\"آدرس\":\"https://app.puzzley.ir/mobile/8Z16-7KD0-66D6-DT3I#/nav/home-screen807\"}","آدرس5":"https://app.puzzley.ir/mobile/8Z16-7KD0-66D6-DT3I#/nav/home-screen807"}
